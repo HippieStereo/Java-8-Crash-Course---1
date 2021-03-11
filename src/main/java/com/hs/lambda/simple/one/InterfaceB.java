@@ -1,4 +1,4 @@
-package com.hs.lambda.one;
+package com.hs.lambda.simple.one;
 
 @FunctionalInterface
 public interface InterfaceB extends InterfaceA {

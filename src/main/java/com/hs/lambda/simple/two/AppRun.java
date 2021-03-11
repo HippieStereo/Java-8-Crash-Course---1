@@ -1,4 +1,4 @@
-package com.hs.lambda.two;
+package com.hs.lambda.simple.two;
 
 public class AppRun {
 
